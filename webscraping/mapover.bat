@@ -1,0 +1,1 @@
+@py.exe G:\git\webscraping\mapover.py %*
